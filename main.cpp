@@ -1,5 +1,5 @@
 /*
-Aunthor: Han Win Tun
+Aunthor: xhanwt
 */
 
 #include <iostream>
