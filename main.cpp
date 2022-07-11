@@ -1,8 +1,5 @@
 /*
 Aunthor: Han Win Tun
-Student ID: 300362344
-Purpose: Solution to exercise 4 & 5
-Date: June 6, 2022
 */
 
 #include <iostream>
